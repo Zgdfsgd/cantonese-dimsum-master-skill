@@ -31,10 +31,12 @@
 
 ## 安装
 
+方式一：Git Clone
 ```bash
-# 下载 .skill 文件后，在 TRAE SOLO 中安装
-trae skill install cantonese-dimsum-master.skill
+git clone https://github.com/Zgdfsgd/cantonese-dimsum-master-skill.git
 ```
+
+方式二：下载 .skill 文件，在 TRAE SOLO 中导入 cantonese-dimsum-master.skill 文件即可自动激活。
 
 ## 使用示例
 
