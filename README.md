@@ -2,6 +2,23 @@
 
 > 按人数/预算/口味推荐广式点心组合，覆盖粤港澳30间知名茶楼，避坑预制菜，懂茶文化
 
+## 文件结构
+
+```
+cantonese-dimsum-master-skill/
+├── SKILL.md                          # 核心技能定义
+├── README.md                         # 项目说明
+├── .gitignore                       # Git忽略文件
+├── references/                       # 知识库目录
+│   ├── dimsum-database.md           # 30间茶楼数据库
+│   ├── pairing-rules.md             # 点单搭配规则
+│   ├── seasonal-specialties.md       # 四季时令推荐
+│   ├── culture-notes.md             # 茶文化与礼仪
+│   └── regulation-guide.md          # 法规速查与预制识别
+└── 截图/                            # 使用效果截图
+    └── ... (5张截图)
+```
+
 ## 功能概览
 
 | 能力 | 说明 |
