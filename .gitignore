@@ -1,0 +1,6 @@
+*.skill
+*.docx
+截图/
+__pycache__/
+.DS_Store
+Thumbs.db
